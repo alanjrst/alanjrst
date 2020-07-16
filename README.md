@@ -8,7 +8,7 @@
 
 I'm a fullstack developer, passionate about technology. Currently responsible for project management and development of new applications for business management.
 
-💙 Techs: ASP.NET , ASP.NET Core, Vue, JS , TypeScript, Docker, TypeScript, Linux, Node, Xamarin, Mysql, Mongo among others
+💙 Techs: ASP.NET , ASP.NET Core, Vue, JS , TypeScript, Docker, Linux, Node, Xamarin, Mysql, Mongo.
 
 📚 Studying: Machine learning, Unit Test.
 
